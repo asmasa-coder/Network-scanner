@@ -1,0 +1,12 @@
+[
+  {
+    "ip": "127.0.0.1",
+    "mac": "N/A",
+    "os": "Linux/Unix",
+    "ports": {
+      "22": "Closed",
+      "80": "Open",
+      "443": "Closed"
+    }
+  }
+]

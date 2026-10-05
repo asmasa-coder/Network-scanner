@@ -1,0 +1,4 @@
+ip,mac,os,port,state
+127.0.0.1,N/A,Linux/Unix,22,Closed
+127.0.0.1,N/A,Linux/Unix,80,Open
+127.0.0.1,N/A,Linux/Unix,443,Closed

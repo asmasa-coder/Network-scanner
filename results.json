@@ -1,0 +1,11 @@
+[
+    {
+        "ip": "127.0.0.1",
+        "mac": "N/A (Cloud/Routed)",
+        "ports": {
+            "22": "Closed",
+            "80": "Closed",
+            "443": "Closed"
+        }
+    }
+]
